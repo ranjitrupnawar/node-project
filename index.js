@@ -5,7 +5,7 @@ const port = 30000;
 
 // Define a simple API endpoint
 app.get('/', (req, res) => {
-  res.send('Arre bhava kute ahe j1 kel ka ');
+  res.send('Arre bhava kute  ');
 });
 
 // Start the server
